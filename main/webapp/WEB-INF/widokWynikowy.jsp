@@ -1,0 +1,1 @@
+<h1>Zarejestrowano uzytkownika ${user.getId()} ${user.getNrTelefonu()} ${user.imie}</h1>
